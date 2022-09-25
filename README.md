@@ -24,4 +24,3 @@ The training data contains about 1700 essays for each of 8 topics and about 500 
 The original Kaggle competition can be found here:
 
 https://www.kaggle.com/c/asap-aes/data
-
