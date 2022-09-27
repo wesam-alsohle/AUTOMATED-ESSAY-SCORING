@@ -12,11 +12,11 @@ A supervised approach  using machine learning on extracted features, such as nam
 
 The training data contains about 1700 essays for each of 8 topics and about 500 essay for an eighth topic. Essays are either source dependent responses or persuasive/narrative/expository on a given topic. The code is executed across three notebooks:
 
-[1 EDA](Exploratory data analysis.ipynb)
+[1 EDA](Exploratory_data_analysis.ipynb)
 
-[2 Feature Selection](Feature Selection.ipynb)
+[2 Feature Selection](Feature_Selection.ipynb)
 
-[3 Machine Learning with PCA](Final_model_with_Pca+learning_Carves.ipynb)
+[3 Machine Learning with PCA](Automatic_Scoring_with_Machine_Learning.ipynb)
 
 
 ## References
